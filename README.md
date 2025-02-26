@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 <h1 align="center">Tavi Manrique Nestarez👋</h1>
 </div>
@@ -8,8 +7,8 @@
 Bachiller en Ingeniería Mecatrónica en la Universidad Peruana de Ciencias Aplicadas, con mas de 4 años de experiencia, enfocado en el desarrollo nativo de aplicaciones móviles Android con frameworks de desarrollo Agile como Scrum y Kanban.
 
 - Especialidad: Android Developer
-- Edad: 28
+- Edad: 28 años
 - Ubicacion: Chincha
-- Conomcimientos: Android, Kotlin, Java
+- Lenguajes: Kotlin, Java
 - Idiomas: Ingles B2
 <br>
