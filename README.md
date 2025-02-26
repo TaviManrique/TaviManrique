@@ -1,16 +1,15 @@
 ## Hi there 👋
+<div align="center">
+<h1 align="center">Tavi Manrique Nestarez👋</h1>
+</div>
+<img src="https://goobar.b-cdn.net/wp-content/uploads/2021/03/android_category_thumbnail.png">
 
-<!--
-**TaviManrique/TaviManrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+Bachiller en Ingeniería Mecatrónica en la Universidad Peruana de Ciencias Aplicadas, con mas de 4 años de experiencia, enfocado en el desarrollo nativo de aplicaciones móviles Android con frameworks de desarrollo Agile como Scrum y Kanban.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Especialidad: Android Developer
+- Edad: 28
+- Ubicacion: Chincha
+- Conomcimientos: Android, Kotlin, Java
+- Idiomas: Ingles B2
+<br>
